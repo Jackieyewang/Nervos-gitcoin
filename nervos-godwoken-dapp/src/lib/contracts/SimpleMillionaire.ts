@@ -37,6 +37,7 @@ export class SimpleMillionaire {
 
         return tx;
     }
+
     async setbValue(value: number, fromAddress: string) {
         const tx = await this.contract.methods.setb(value).send({
             ...DEFAULT_SEND_OPTIONS,
@@ -46,7 +47,6 @@ export class SimpleMillionaire {
 
         return tx;
     }
-
 
     async deploy(fromAddress: string) {
         const deployTx = await (this.contract
