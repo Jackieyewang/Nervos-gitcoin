@@ -2,8 +2,7 @@
 
 ##  successfully deployed the smart contract
 
-![successfully deployed a smart contract](./successfully deployed a smart contract.png)
-
+![successfully_deployed](./successfully_deployed_a_smart_contract.png)
 ## Transaction hash
 
 0x8669de7bd5a644ae4830f2d3a9ab864952e62b5dd48459b35a4a150a0d230cc0

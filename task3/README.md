@@ -2,7 +2,7 @@
 
 # Successfully issued a smart 
 
-![successfully issued a smart contract call](./successfully issued a smart contract call.png)
+![successfully issued a smart contract call](./successfully_issued_a_smart_contract_call.png)
 
 
 

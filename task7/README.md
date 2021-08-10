@@ -2,7 +2,7 @@
 
 ## Screenshots or video of  application running on Godwoken
 
-![Screenshots or video of your application running on Godwoken](./Screenshots or video of application running on Godwoken.png)
+![Screenshots or video of your application running on Godwoken](./Screenshots_or_video_of_application_running_on_Godwoken.png)
 
 ## Link to the GitHub repository with your application which has been ported to Godwoken
 

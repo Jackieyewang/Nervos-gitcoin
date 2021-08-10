@@ -2,7 +2,7 @@
 
 ## The console output immediately after deploying smart contract
 
-![output immediately after deploying smart contract](./output immediately after deploying smart contract.png)
+![output immediately after deploying smart contract](./output_immediately_after_deploying_smart_contract.png)
 
 
 
@@ -16,11 +16,10 @@ Deployed SUDT-ERC20 Proxy contract address:
 
 ## The console output immediately after checking your SUDT balance
 
-![checking SUDT balance](/Users/apple/Documents/do/specterlife/Nervos/ckb/task5/checking SUDT balance.png)
-
+![checking SUDT balance](./checking_SUDT_balance.png)
 
 
 ## The Ethereum address that was checked 
-
+```
 0x4cCb15C6F2c5645FA1412d7f5038c9EBB272C521
-
+```

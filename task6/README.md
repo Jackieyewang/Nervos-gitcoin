@@ -2,7 +2,7 @@
 
 ## Successfully generated the Deposit Receiver Address
 
-![Successfully generated your Deposit Receiver Address](./Successfully generated your Deposit Receiver Address.png)
+![Successfully generated your Deposit Receiver Address](./Successfully_generated_Deposit_Receiver_Address.png)
 
 ## Deposit Receiver Address
 
@@ -13,9 +13,6 @@ ckt1q3dz2p4mdrvp5ywu4kk5edl2uc4p03puvx07g7kgqdau3n3dmypkqnxzuefxyp9wdghglncj77k5
 ```
 0x4cCb15C6F2c5645FA1412d7f5038c9EBB272C521
 ```
-
-
-
 
 
 ##  A link to the Etherscan explorer for the successful Force Bridge transaction. This can be found on Force Bridge under History→Succeed
