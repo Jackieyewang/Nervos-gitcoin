@@ -12,4 +12,4 @@
 
 ## Submitted a deposit to Layer 2
 
-![deposit to Layer 2](./deposit to Layer 2.png)
+![deposit to Layer 2](./deposit-to-Layer 2.png)
